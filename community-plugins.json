@@ -71377,5 +71377,12 @@
     "author": "Troy Burch",
     "description": "Attach notes to the Windows files, folders, apps and web pages you work in. Pro automatically opens the right note when you switch back. Requires the separate free ClingNote companion for Windows. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fieldr-studio/clingnote-obsidian"
+  },
+  {
+    "id": "obdu",
+    "name": "Vault Disk Usage (obdu)",
+    "author": "Markus Litz",
+    "description": "Analyze vault disk usage in an ncdu-style interface with attachment attribution, reference inspection, and orphan detection.",
+    "repo": "MarkusLitz/obsidian-obdu"
   }
 ]
