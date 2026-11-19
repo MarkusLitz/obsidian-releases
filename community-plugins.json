@@ -74198,5 +74198,12 @@
     "author": "diogo1080",
     "description": "Sync templates and scripts from a GitHub repository into vault folders, and ask before applying each new version. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "diogo1080/GetMyScriptsAndTemplates"
+  },
+  {
+    "id": "journalify",
+    "name": "Journalify",
+    "author": "Markus Litz",
+    "description": "Turn daily notes into an interactive diary feed, vertical timeline, or two-page book view with mood & weather tracking, photo galleries, calendar insights, and Day One import.",
+    "repo": "MarkusLitz/obsidian-journalify"
   }
 ]
